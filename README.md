@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/SEMI.git
+git clone https://github.com/ziyuwang777/SEMI
 cd SEMI
 Ensure that all necessary toolboxes (such as Statistics and Machine Learning Toolbox) are installed in your MATLAB environment.
 

@@ -17,16 +17,7 @@ Incomplete Multi-View Clustering (IMVC) aims to enhance clustering performance b
 ## Requirements
 
 - MATLAB R2023a or later
-
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/ziyuwang777/SEMI.git
-cd SEMI
-```
-
+- 
 Ensure that all necessary toolboxes (such as Statistics and Machine Learning Toolbox) are installed in your MATLAB environment.
 
 ## Usage

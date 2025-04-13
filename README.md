@@ -6,6 +6,7 @@ This repository contains the official MATLAB implementation of the paper "Incomp
 ## Overview
 
 Incomplete Multi-View Clustering (IMVC) aims to enhance clustering performance by capturing complementary information from incomplete multi-views, where some data samples in one or more views are missing. This method introduces **Structure Exploration and Missing-view Inference (SEMI)**, a novel approach that explores global, local, consistent, and inconsistent structures of data while guiding the inference of missing views.
+![SEMI-overview](https://github.com/user-attachments/assets/587eabde-0580-45e4-a0ca-c27da0dc135f)
 
 ## Key Features
 
